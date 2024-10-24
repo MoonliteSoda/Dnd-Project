@@ -3,6 +3,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.util.Random;
 public class DiceRoll {
+	//теперь по-нормальному загружу
 	//короче, вводите дайсы в формате xdx ydy: 6d6 10d4 (на всякий случай говорю: разделяем дайсы пробелами
 	public static void main(String[] args) {
 		Scanner scn = new Scanner(System.in); 
